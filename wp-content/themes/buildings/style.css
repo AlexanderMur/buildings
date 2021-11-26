@@ -1,0 +1,16 @@
+/*!
+Theme Name:   Buildings
+Author:       Mur
+Text Domain:  buildings
+*/
+.page-loop {
+    transition: 0.3s;
+}
+.loading {
+    opacity: 0.7;
+    user-select: none;
+}
+.post-text h1 {
+    margin-bottom: 30px;
+    font-size: 26px;
+}
